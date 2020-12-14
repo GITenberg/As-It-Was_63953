@@ -1,0 +1,28 @@
+_repo: As-It-Was_63953
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Payne, Paul L.
+    alias: Payne, Paul Lawrence
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '52683'
+    url: http://www.gutenberg.org/2009/agents/52683
+description: ''
+gutenberg_issued: '2020-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63953'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Hunters -- Fiction'
+- GITenberg
+title: As It Was
+url: http://www.gutenberg.org/ebooks/63953
